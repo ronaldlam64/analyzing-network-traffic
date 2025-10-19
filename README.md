@@ -10,7 +10,6 @@ The purpose of this lab is to demonstrate how to capture and analyze network tra
 
 - VMWare or Virtualbox for VM
 - Wireshark
-- Remote Desktop
 
 <h2>Operating System Used</h2>
 
