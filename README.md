@@ -39,7 +39,9 @@ The purpose of this lab is to demonstrate how to capture and analyze network tra
 
    <img src="https://i.imgur.com/twXzSph.png" alt="installation wizard" />
 
-3. Open Wireshark and click Ethernet0, which is where network traffic is occuring.
+<h2>How to use</h2>
+
+1. Open Wireshark and click Ethernet0, which is where network traffic is occuring.
 
    <img src="https://i.imgur.com/PX9bMsr.png" alt="opening wireshark" />
 
